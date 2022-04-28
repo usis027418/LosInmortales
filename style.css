@@ -356,6 +356,40 @@ background-attachment: fixed;
 background-attachment: fixed;
 }
 
+.container3 {
+  text-align: center;
+  color: var(--color);
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://img.freepik.com/vector-gratis/deja-fondo-papel-metalico_79603-913.jpg?w=2000);
+  background-size: cover;
+  background-position: center;
+  
+/*magic*/
+background-attachment: fixed;
+}
+
+.container4 {
+  text-align: center;
+  color: var(--color);
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://img.freepik.com/vector-gratis/deja-fondo-papel-metalico_79603-913.jpg?w=2000);
+  background-size: cover;
+  background-position: center;
+  
+/*magic*/
+background-attachment: fixed;
+}
+
 h1 {
   font-weight: 700;
   font-size: 3rem;
@@ -384,7 +418,7 @@ a {
 .other {
   width: 100%;
   min-height: 5vh;
-  background-color: rgb(131, 131, 131);
+  background-color: rgb(255, 255, 255);
 }
 
 .second {
